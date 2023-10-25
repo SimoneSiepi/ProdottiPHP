@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+#Box{
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+#Menu{
+    width: auto;
+    height: auto;
+}
+
+#Menu a{
+    text-decoration: none;
+    color: black;
+    background-color: rgba(27, 127, 241, 0.808);
+    padding: 10px 25px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.end{
+    margin: 0;
+    padding: 5px;
+    background-color: #52c0ff;
+    text-align: center;
+    margin-top: auto;
+  }
+  
